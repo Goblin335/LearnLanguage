@@ -1,0 +1,17 @@
+C:\Users\artem\source\repos\LearnCsharp1\LearnCsharp1\bin\Debug\net8.0\LearnCsharp1.exe
+C:\Users\artem\source\repos\LearnCsharp1\LearnCsharp1\bin\Debug\net8.0\LearnCsharp1.deps.json
+C:\Users\artem\source\repos\LearnCsharp1\LearnCsharp1\bin\Debug\net8.0\LearnCsharp1.runtimeconfig.json
+C:\Users\artem\source\repos\LearnCsharp1\LearnCsharp1\bin\Debug\net8.0\LearnCsharp1.dll
+C:\Users\artem\source\repos\LearnCsharp1\LearnCsharp1\bin\Debug\net8.0\LearnCsharp1.pdb
+C:\Users\artem\source\repos\LearnCsharp1\LearnCsharp1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\artem\source\repos\LearnCsharp1\LearnCsharp1\obj\Debug\net8.0\LearnCsharp1.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\LearnCsharp1\LearnCsharp1\obj\Debug\net8.0\LearnCsharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\LearnCsharp1\LearnCsharp1\obj\Debug\net8.0\LearnCsharp1.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\LearnCsharp1\LearnCsharp1\obj\Debug\net8.0\LearnCsharp1.AssemblyInfo.cs
+C:\Users\artem\source\repos\LearnCsharp1\LearnCsharp1\obj\Debug\net8.0\LearnCsharp1.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\LearnCsharp1\LearnCsharp1\obj\Debug\net8.0\LearnCsharp1.csproj.CopyComplete
+C:\Users\artem\source\repos\LearnCsharp1\LearnCsharp1\obj\Debug\net8.0\LearnCsharp1.dll
+C:\Users\artem\source\repos\LearnCsharp1\LearnCsharp1\obj\Debug\net8.0\refint\LearnCsharp1.dll
+C:\Users\artem\source\repos\LearnCsharp1\LearnCsharp1\obj\Debug\net8.0\LearnCsharp1.pdb
+C:\Users\artem\source\repos\LearnCsharp1\LearnCsharp1\obj\Debug\net8.0\LearnCsharp1.genruntimeconfig.cache
+C:\Users\artem\source\repos\LearnCsharp1\LearnCsharp1\obj\Debug\net8.0\ref\LearnCsharp1.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eX8tTaVjZ+PA+XVtTBwu7b5j6tPbUwbAM3SbC599ZINhpPs/E1jV9ECAq0aU0ksyjEtPWtN9QxIlpKIoQBGyYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artem\\source\\repos\\LearnCsharp1\\LearnCsharp1\\LearnCsharp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
